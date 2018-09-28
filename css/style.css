@@ -1,0 +1,12 @@
+body {
+    background: orange;
+}
+
+.container {
+    width: 70%;
+    border-radius: 10px;
+}
+
+.orange {
+    color: orange;
+}
